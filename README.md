@@ -3,9 +3,10 @@
 
 ## 1. Thông tin sinh viên
 
-- Họ và tên: `Trần Thiện Long`
-- MSSV: `24120373`
+- Họ và tên: `Chu Bảo Minh`
+- MSSV: `24120379`
 - Lớp: `24CTT4`
+- Lớp TDTT: `24CTT3`
 
 ## 2. Tên mô hình và liên kết mô hình trên Hugging Face
 
