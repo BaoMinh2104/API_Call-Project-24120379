@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # BLIP Image Captioning API
 
 ## 1. Thông tin sinh viên
