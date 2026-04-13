@@ -7,7 +7,7 @@
 - Lớp: `24CTT4`
 - Lớp TDTT: `24CTT3`
 
-## 2. Tên mô hình và liên kết mô hình trên Hugging Face
+## 2. Tên mô hình và link mô hình trên Hugging Face
 
 - Model sử dụng: `Salesforce/blip-image-captioning-large`
 - Link model: `https://huggingface.co/Salesforce/blip-image-captioning-large`
